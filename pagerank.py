@@ -1,3 +1,5 @@
+# @author : Mohamed Abdessalame
+
 import numpy as np
 
 def google_matrix(A, a):
